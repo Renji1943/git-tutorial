@@ -1,3 +1,3 @@
 Difference between working tree and repository
 ---fix-B2
---feeatuer-C
+--featuer-C
